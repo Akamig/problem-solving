@@ -1,0 +1,29 @@
+{
+  "files.associations": {
+    "type_traits": "cpp",
+    "array": "cpp",
+    "hash_map": "cpp",
+    "*.tcc": "cpp",
+    "concepts": "cpp",
+    "deque": "cpp",
+    "list": "cpp",
+    "string": "cpp",
+    "unordered_map": "cpp",
+    "vector": "cpp",
+    "memory": "cpp",
+    "optional": "cpp",
+    "string_view": "cpp",
+    "fstream": "cpp",
+    "istream": "cpp",
+    "ostream": "cpp",
+    "sstream": "cpp",
+    "stop_token": "cpp",
+    "streambuf": "cpp",
+    "thread": "cpp",
+    "functional": "cpp",
+    "tuple": "cpp",
+    "valarray": "cpp",
+    "condition_variable": "cpp"
+  },
+  "python.formatting.provider": "autopep8"
+}
